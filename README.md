@@ -7,13 +7,12 @@ you can use a discord bot token OR your account token with this.
 Put your Token in token.txt and run the start.bat file. this will bring your selfbot/bot online.
 Nuking Commands can be Executed in DM's and Servers (I suggest trying the DM commands ((if your using selfbot)) on an alt account makes it less suspicous nuking through DM's ((if your using a normal bot then just DM it)))
 # Commands
-## Starting Prefix Is "?"
+## Prefix Is "?"
 ## Useful
-#### Prefix \[New Prefix] changes prefix
-#### emb \[message] sends and embed message
-#### pfp \[member id] Returns Profile URL
-#### stats Returns Bot Status
+#### ?emb \[message] sends and embed message
+#### ?pfp \[member id] Returns Profile URL
+#### ?stats Returns Bot Status
 ## Nuking
 ## ALL NUKING COMMANDS SHOULD BE EXECUTE THROUGH THE DM's
-#### spam \[message to spam] \[Amount of time to spam for (seconds)] \[server id to spam] Spams all channels available in server
-#### Nuke \[Server ID] \[spam message] \[spam channel name] **ALL PERMS NEEDED** Completly nukes a server with only one command
+#### ?spam \[message to spam] \[Amount of time to spam for (seconds)] \[server id to spam] Spams all channels available in server
+#### ?Nuke \[Server ID] \[spam message] \[spam channel name] **ALL PERMS NEEDED** Completly nukes a server with only one command
