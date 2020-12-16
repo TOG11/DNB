@@ -14,5 +14,5 @@ Nuking Commands can be Executed in DM's and Servers (I suggest trying the DM com
 #### ?stats Returns Bot Status
 ## Nuking
 ## ALL NUKING COMMANDS SHOULD BE EXECUTE THROUGH THE DM's
-#### ?spam \[message to spam] \[Amount of time to spam for (seconds)] \[server id to spam] Spams all channels available in server
-#### ?Nuke \[Server ID] \[spam message] \[spam channel name] **ALL PERMS NEEDED** Completly nukes a server with only one command
+#### ?spam \[message to spam] \[server id to spam] Spams all channels available in server
+#### ?Nuke \[Server ID] \[spam message] \[spam channel ID] **ALL PERMS NEEDED** Completly nukes a server with only one command
