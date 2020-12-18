@@ -1,8 +1,9 @@
 # D.N.B
 Created by TOGi for CUM
 is a Discord Self-Bot/Bot runner. this system is jam packed with many ominous tools for nuking and some fun commands to!
-you can use a discord bot token OR your account token with this. 
-**Non of the tokens provided in the token.txt will be** ***recorded*** **or** ***stored***, ***anything written within the files of the bot are safe and will not be logged.***
+you can use a discord bot token OR your account token with this. (Normal discord bots have been discontinued!) 
+**Non of the tokens provided in the token.txt will be** ***recorded*** **or** ***stored***, ***anything written
+ within the files of the bot are safe and will not be logged.***
 # How To Use
 Put your Token in token.txt and run the .bat file. this will bring your selfbot/bot online.
 Nuking Commands can be Executed in Servers
